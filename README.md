@@ -1,13 +1,14 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Gautam Kushwaha 👋
 
-I'm a passionate developer and technology enthusiast. I love to create and build new things. Currently, I'm focusing on web development and learning new technologies to enhance my skills.
+I am an enthusiastic developer with a passion for technology, constantly seeking to create and innovate. My current focus is on web development, where I strive to learn new technologies to expand my skill set. I specialize in full-stack development (MERN stack) and React Native, with a keen interest in AI/ML, particularly in NLP, computer vision, and data science.
 
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Others:** Git, RESTful APIs, Agile Methodologies
+- **Languages:** JavaScript, Python, Java, C, C++, R
+- **Frontend:** HTML, CSS, React.js, React Native
+- **Backend:** Node.js, Express.js,
+- **Databases:** MongoDB, MySQL, Firebase
+- **Others:** Git, RESTful APIs, Agile Methodologies, Docker,
+- **AI/ML:** NLP, LLM, Tensorflow, Keras, computer vision, 
 
 ## 💼 Projects
 ### Project 1: [Project Name](link-to-project)
